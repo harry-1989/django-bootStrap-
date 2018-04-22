@@ -1,0 +1,4 @@
+HelloWorld/frontend
+*.pyc
+.gitignore
+.idea/
